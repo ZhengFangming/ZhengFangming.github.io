@@ -1,0 +1,8 @@
+baseURL = 'https://ZhengFangming.github.io/'
+locale = 'zh-cn'
+title = 'ArcEcho Blog'
+theme = 'PaperMod'
+enableRobotsTXT = true
+[params]
+ShowReadingTime = true
+ShowShareButtons = true
